@@ -2,6 +2,11 @@
 Download and analyze a set data file containing packet data.
 
 
+## Background
+
+This app was written using the storyboard and UIKit. Networking was achieved using AlamoFire.
+
+
 ## Building
 
 After cloning this repo, you must install all dependencies. This workspace includes the AlamoFire CocoaPod. After cloning, simply:
